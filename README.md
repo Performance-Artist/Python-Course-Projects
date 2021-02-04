@@ -1,2 +1,2 @@
-# Python-Course-2021
+# Python-Course
 # Python Homework and other projects
